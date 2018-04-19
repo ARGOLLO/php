@@ -1,6 +1,6 @@
 <?php
 
-echo "Hello World!!!";
-echo "<strong> TESTE </strong>";
+echo "Olá mundo!!!";
+echo "<strong> Udemy e HCode</strong>";
 
 ?> 
